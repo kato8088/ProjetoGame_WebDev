@@ -9,3 +9,4 @@
 7. Criando as pastas components, routes e styles
 8. Instalar as dependências que serão utilizadas no projeto:
 ```npm install react-router-dom; npm install styled-components```
+9. 
