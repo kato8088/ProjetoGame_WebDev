@@ -9,4 +9,5 @@
 7. Criando as pastas components, routes e styles
 8. Instalar as dependências que serão utilizadas no projeto:
 ```npm install react-router-dom; npm install styled-components```
-9. 
+9. Verificar se tem a extensãio ES7 React/Redux/GraphQL/React-Native snippets
+10. Criando os componentes do projeto com o comando ```rafce```
